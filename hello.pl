@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!C:\stawberry\perl\bin\perl.exe -w
 
 $a = "world", "greg";
 
